@@ -1,3 +1,4 @@
+/*Given an integer array of size n, find all elements that apear more than  (n/2) times */
 package HashMap;
 import java.util.*;
 
